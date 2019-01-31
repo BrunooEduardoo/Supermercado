@@ -1,0 +1,3 @@
+1. Criar um sistema JSON para a criação e indentificação de cada produto do Supermercado. O JSON poderá ser futuramente atualizado por um
+sistema WEB, o JSON definitivamente será lido ao iniciar o programa, e também poderá futuramente ser lido por meio de alguma função 
+relacionada a atualizar os produtos.
